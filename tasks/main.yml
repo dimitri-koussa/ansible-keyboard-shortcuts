@@ -1,0 +1,6 @@
+---
+
+- name: Make caps another escape
+  gsetting: user=dkoussa
+    key: "/org/gnome/shell/enabled-extensions"
+    value: "['alternate-tab@gnome-shell-extensions.gcampax.github.com']"

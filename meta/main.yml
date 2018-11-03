@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  author: Dimitri Koussa
+  description: ansible-keyboard-shortcuts
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+dependencies: []
